@@ -5,7 +5,7 @@ body {
 
 .landing-page {
   /* Replace with an actual high-res background image URL */
-  background-image: url('https://images.unsplash.com/photo-1466692476877-6d526481cb70?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+  background-image: url('/images/background.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
