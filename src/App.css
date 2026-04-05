@@ -4,7 +4,6 @@ body {
 }
 
 .background-image{
-  /* Replace with an actual high-res background image URL */
   background-image: url('/images/background.jpg');
   background-size: cover;
   background-position: center;
